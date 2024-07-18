@@ -5,7 +5,7 @@
 - to start with NumPy and pandas
 
 ## Notes
-- if facing problems scraping HTML pages with URLs, run the below commands:
+- If facing problems scraping HTML pages with URLs, run the below commands:
 <pre>
 !pip install lxml
 !python -m pip install --upgrade pip
