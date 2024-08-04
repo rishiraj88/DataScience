@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
+<<<<<<< HEAD
 DataScience101\.ipynb_checkpoints
+=======
+DataScience101/.ipynb_checkpoints
+DataScience101/state_baby_names.csv
+>>>>>>> e3444fe (Write Notebooks for sorting and grouping data.)
